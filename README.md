@@ -13,7 +13,7 @@
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-nombre: TU NOMBRE
+nombre: Naun Emanuel
 rol: Full Stack Developer
 ubicacion: El Salvador
 aprendiendo:
