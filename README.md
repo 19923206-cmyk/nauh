@@ -1,4 +1,3 @@
-
 <div align="center">  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Naun+Emanuel;Full+Stack+Developer;Bienvenido+a+mi+GitHub;Siempre+Aprendiendo+🚀" />
@@ -77,16 +76,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">
-🏆 Trofeos GitHub
-</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
