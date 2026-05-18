@@ -1,7 +1,7 @@
 
 <div align="center">  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+Soy+Naun+Emanuel;💻+Full+Stack+Developer;🚀+Apasionado+por+la+Tecnología;🔥+Bienvenido+a+mi+GitHub" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Naun+Emanuel" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,50:8A2BE2,100:FF0080&text=Naun%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
