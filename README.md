@@ -1,40 +1,81 @@
-# 👋 Hola, soy TuNombre
+<h1 align="center">Hola, soy Tu Nombre Naun Emanuel👋</h1>
 
-🚀 Desarrollador apasionado por la tecnología, el código limpio y la creación de soluciones digitales.
-
-## 🧠 Sobre mí
-- 💻 Full Stack Developer
-- 🌎 Desde El Salvador
-- 📚 Aprendiendo constantemente nuevas tecnologías
-- ⚡ Interesado en IA, automatización y desarrollo web
-
-## 🛠️ Tecnologías y herramientas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+<p align="center">
+  Desarrollador de software enfocado en crear soluciones modernas, escalables y eficientes.
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Sobre mí
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TUPERFIL)
-
-[![Portafolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://tuweb.com)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tuemail@gmail.com)
+- 💼 Desarrollador Full Stack
+- 🌎 Ubicado en El Salvador
+- 📚 Aprendizaje continuo y mejora constante
+- ⚡ Interés en desarrollo web, automatización e inteligencia artificial
+- 🎯 Enfocado en escribir código limpio y mantenible
 
 ---
 
-⭐ “Construyendo ideas con código.”
+## 🛠️ Stack Tecnológico
+
+### Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+### Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=github_dark&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p>
+  <a href="https://linkedin.com/in/TUPERFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://tuportafolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"La calidad del software depende de la calidad del código."</i>
+</p>
