@@ -16,7 +16,7 @@
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h1 align="center">
-  🌟 Sobre Mí
+
 </h1>
 
 <p align="center">
