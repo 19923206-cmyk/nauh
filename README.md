@@ -15,18 +15,35 @@
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-nombre: Naun Emanuel
-rol: Full Stack Developer
-ubicacion: El Salvador
+<h1 align="center">
+  🌟 Sobre Mí
+</h1>
 
-aprendiendo:
-  - Inteligencia Artificial 🤖
-  - Cloud Computing ☁️
-  - Ciberseguridad 🔐
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="180"/>
+</p>
 
-lenguajes:
-  - JavaScript 💛
-  - TypeScript 💙
-  - Python 🐍
-  - Java ☕
+<div align="center">
+
+### 👨‍💻 Información
+
+🔹 **Nombre:** Naun Emanuel  
+🔹 **Rol:** Full Stack Developer  
+🔹 **Ubicación:** El Salvador 🇸🇻  
+
+---
+
+### 🚀 Actualmente Aprendiendo
+
+🤖 Inteligencia Artificial  
+☁️ Cloud Computing  
+🔐 Ciberseguridad  
+
+---
+
+### 💻 Lenguajes
+
+💛 JavaScript  
+💙 TypeScript  
+🐍 Python  
+☕ Java  
