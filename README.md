@@ -1,78 +1,31 @@
-<h1 align="center">Hola, soy Tu Nombre Naun Emanuel👋</h1>
+<div align="center">
 
-<p align="center">
-  Desarrollador de software enfocado en crear soluciones modernas, escalables y eficientes.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+Soy+TU+NOMBRE;💻+Full+Stack+Developer;🚀+Apasionado+por+la+Tecnología;🔥+Bienvenido+a+mi+GitHub" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,50:8A2BE2,100:FF0080&text=GitHub%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-## 🚀 Sobre mí
-
-- 💼 Desarrollador Full Stack
-- 🌎 Ubicado en El Salvador
-- 📚 Aprendizaje continuo y mejora constante
-- ⚡ Interés en desarrollo web, automatización e inteligencia artificial
-- 🎯 Enfocado en escribir código limpio y mantenible
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+# 🌟 Sobre Mí
 
-### Lenguajes
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php" />
-</p>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+```yaml
+nombre: TU NOMBRE
+rol: Full Stack Developer
+ubicacion: El Salvador
+aprendiendo:
+  - Inteligencia Artificial
+  - Cloud Computing
+  - Ciberseguridad
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
-</p>
-
-### Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
-</p>
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📫 Contacto
-
-<p>
-  <a href="https://linkedin.com/in/TUPERFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+lenguajes:
+  - JavaScript
+  - TypeScript
+  - Python
+  - Java
 
 ---
 
