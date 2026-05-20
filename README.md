@@ -18,7 +18,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="180"/>
 
-### 👨‍💻 Información
+## 👨‍💻 Información
 
 🔹 **Nombre:** Naun Emanuel  
 🔹 **Rol:** Full Stack Developer  
