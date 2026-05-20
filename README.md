@@ -1,8 +1,7 @@
 
-
 <div align="center">
 
-<!-- ANIMATED TEXT -->
+<!-- TEXTO ANIMADO -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Naun+Emanuel;Full+Stack+Developer;Bienvenido+a+mi+GitHub;Siempre+Aprendiendo+🚀" />
 
 <!-- HEADER -->
@@ -13,7 +12,7 @@
 ---
 
 <h1 align="center">
-  🌟 Sobre Mí
+🌟 Sobre Mí
 </h1>
 
 <div align="center">
@@ -137,16 +136,6 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6j6q5m7m4xqk4f7z5k6v4h7na&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
 
 </div>
-
----
-
-<h2 align="center">
-🐍 Snake Contribution
-</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
