@@ -1,3 +1,4 @@
+
 <div align="center">  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Naun+Emanuel;Full+Stack+Developer;Bienvenido+a+mi+GitHub;Siempre+Aprendiendo+🚀" />
@@ -67,16 +68,6 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-<h2 align="center">
-🔥 Actividad
-</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
